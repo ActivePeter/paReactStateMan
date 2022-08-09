@@ -1,0 +1,2 @@
+# paReactStateMan
+为react实现类似vue的状态监听，组件对关心的数据变化进行监听和响应，支持层级状态
